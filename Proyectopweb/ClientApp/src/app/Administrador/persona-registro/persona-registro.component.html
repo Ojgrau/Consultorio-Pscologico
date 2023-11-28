@@ -6,7 +6,7 @@
       <div class="container">
         <div class="row">
 
-          <h2>Psicotec</h2>
+          <h2>TerapHora</h2>
 
           <form [formGroup]="formGroup">
 
@@ -33,7 +33,7 @@
                 <option value="cedula">Cedula de ciudadania</option>
                 <option value="registro">Registro civil</option>
                 <option value="tarjeta">Tarjeta de identidad</option>
-                <option value="extrangero">Documento extrangero</option>
+                <option value="extrangero">Documento extranjero</option>
               </select>
               <div *ngIf=" control.tipoDocumento.errors" class="invalid-feedback">
                 <div *ngIf="control.tipoDocumento.errors.required">El tipo de documento es requerido</div>
@@ -148,7 +148,7 @@
         </div>
 
         <div class="text-center">
-          <button class="btn btn-primary mr-1" (click)=" onSubmit()" [disabled]="formGroup.invalid">Registrate</button>
+          <button class="btn btn-primary mr-1" (click)=" onSubmit()" [disabled]="formGroup.invalid">Registrarse</button>
         </div>
 
       </div>
