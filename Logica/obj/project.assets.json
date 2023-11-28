@@ -5982,11 +5982,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DEVOPS PROYECTO\\Proyecto-Programacion-Web\\Logica\\Logica.csproj",
+      "projectUniqueName": "C:\\CONSULTORIO PSICOLOGICO\\Consultorio-Pscologico\\Logica\\Logica.csproj",
       "projectName": "Logica",
-      "projectPath": "C:\\DEVOPS PROYECTO\\Proyecto-Programacion-Web\\Logica\\Logica.csproj",
+      "projectPath": "C:\\CONSULTORIO PSICOLOGICO\\Consultorio-Pscologico\\Logica\\Logica.csproj",
       "packagesPath": "C:\\Users\\oscar\\.nuget\\packages\\",
-      "outputPath": "C:\\DEVOPS PROYECTO\\Proyecto-Programacion-Web\\Logica\\obj\\",
+      "outputPath": "C:\\CONSULTORIO PSICOLOGICO\\Consultorio-Pscologico\\Logica\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\oscar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6003,11 +6003,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\DEVOPS PROYECTO\\Proyecto-Programacion-Web\\Datos\\Datos.csproj": {
-              "projectPath": "C:\\DEVOPS PROYECTO\\Proyecto-Programacion-Web\\Datos\\Datos.csproj"
+            "C:\\CONSULTORIO PSICOLOGICO\\Consultorio-Pscologico\\Datos\\Datos.csproj": {
+              "projectPath": "C:\\CONSULTORIO PSICOLOGICO\\Consultorio-Pscologico\\Datos\\Datos.csproj"
             },
-            "C:\\DEVOPS PROYECTO\\Proyecto-Programacion-Web\\Entidad\\Entidad.csproj": {
-              "projectPath": "C:\\DEVOPS PROYECTO\\Proyecto-Programacion-Web\\Entidad\\Entidad.csproj"
+            "C:\\CONSULTORIO PSICOLOGICO\\Consultorio-Pscologico\\Entidad\\Entidad.csproj": {
+              "projectPath": "C:\\CONSULTORIO PSICOLOGICO\\Consultorio-Pscologico\\Entidad\\Entidad.csproj"
             }
           }
         }

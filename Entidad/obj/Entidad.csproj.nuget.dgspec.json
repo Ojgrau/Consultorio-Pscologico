@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DEVOPS PROYECTO\\Proyecto-Programacion-Web\\Entidad\\Entidad.csproj": {}
+    "C:\\CONSULTORIO PSICOLOGICO\\Consultorio-Pscologico\\Entidad\\Entidad.csproj": {}
   },
   "projects": {
-    "C:\\DEVOPS PROYECTO\\Proyecto-Programacion-Web\\Entidad\\Entidad.csproj": {
+    "C:\\CONSULTORIO PSICOLOGICO\\Consultorio-Pscologico\\Entidad\\Entidad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DEVOPS PROYECTO\\Proyecto-Programacion-Web\\Entidad\\Entidad.csproj",
+        "projectUniqueName": "C:\\CONSULTORIO PSICOLOGICO\\Consultorio-Pscologico\\Entidad\\Entidad.csproj",
         "projectName": "Entidad",
-        "projectPath": "C:\\DEVOPS PROYECTO\\Proyecto-Programacion-Web\\Entidad\\Entidad.csproj",
+        "projectPath": "C:\\CONSULTORIO PSICOLOGICO\\Consultorio-Pscologico\\Entidad\\Entidad.csproj",
         "packagesPath": "C:\\Users\\oscar\\.nuget\\packages\\",
-        "outputPath": "C:\\DEVOPS PROYECTO\\Proyecto-Programacion-Web\\Entidad\\obj\\",
+        "outputPath": "C:\\CONSULTORIO PSICOLOGICO\\Consultorio-Pscologico\\Entidad\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\oscar\\AppData\\Roaming\\NuGet\\NuGet.Config",

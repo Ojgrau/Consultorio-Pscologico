@@ -130,3 +130,15 @@ C:\DEVOPS PROYECTO\Proyecto-Programacion-Web\Entidad\obj\Debug\net5.0\Entidad.dl
 C:\DEVOPS PROYECTO\Proyecto-Programacion-Web\Entidad\obj\Debug\net5.0\refint\Entidad.dll
 C:\DEVOPS PROYECTO\Proyecto-Programacion-Web\Entidad\obj\Debug\net5.0\Entidad.pdb
 C:\DEVOPS PROYECTO\Proyecto-Programacion-Web\Entidad\obj\Debug\net5.0\ref\Entidad.dll
+C:\CONSULTORIO PSICOLOGICO\Consultorio-Pscologico\Entidad\bin\Debug\net5.0\Entidad.deps.json
+C:\CONSULTORIO PSICOLOGICO\Consultorio-Pscologico\Entidad\bin\Debug\net5.0\Entidad.dll
+C:\CONSULTORIO PSICOLOGICO\Consultorio-Pscologico\Entidad\bin\Debug\net5.0\Entidad.pdb
+C:\CONSULTORIO PSICOLOGICO\Consultorio-Pscologico\Entidad\obj\Debug\net5.0\Entidad.csproj.AssemblyReference.cache
+C:\CONSULTORIO PSICOLOGICO\Consultorio-Pscologico\Entidad\obj\Debug\net5.0\Entidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\CONSULTORIO PSICOLOGICO\Consultorio-Pscologico\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfoInputs.cache
+C:\CONSULTORIO PSICOLOGICO\Consultorio-Pscologico\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfo.cs
+C:\CONSULTORIO PSICOLOGICO\Consultorio-Pscologico\Entidad\obj\Debug\net5.0\Entidad.csproj.CoreCompileInputs.cache
+C:\CONSULTORIO PSICOLOGICO\Consultorio-Pscologico\Entidad\obj\Debug\net5.0\Entidad.dll
+C:\CONSULTORIO PSICOLOGICO\Consultorio-Pscologico\Entidad\obj\Debug\net5.0\refint\Entidad.dll
+C:\CONSULTORIO PSICOLOGICO\Consultorio-Pscologico\Entidad\obj\Debug\net5.0\Entidad.pdb
+C:\CONSULTORIO PSICOLOGICO\Consultorio-Pscologico\Entidad\obj\Debug\net5.0\ref\Entidad.dll

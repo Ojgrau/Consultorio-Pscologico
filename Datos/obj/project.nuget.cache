@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BhjJOhV0XAmphbt1taGCcoVyUm3U5cq/7S/K2+qp4lGWVJg/0var332Yr94l5b4Nf3HwJ2y8SaO3bkBr/ZeBDg==",
+  "dgSpecHash": "SXG3aoWakz5IoCiDfttLkIrrjwzavq+BhokYeNO6R9H55XY2Wklvl9jrYA7LfBe28zCeK6P881PRdQT+6h2fCQ==",
   "success": true,
-  "projectFilePath": "C:\\DEVOPS PROYECTO\\Proyecto-Programacion-Web\\Datos\\Datos.csproj",
+  "projectFilePath": "C:\\CONSULTORIO PSICOLOGICO\\Consultorio-Pscologico\\Datos\\Datos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oscar\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\oscar\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "80d9G5d6JGETMdOcMyxO9klrD5RO1pWd3PUmYr7Jc/3facM+UuS8GZet/30QoRmuBGIXVX8mrIU6dyItj9/xcA==",
+  "dgSpecHash": "oC/g1SVlKtLvKoE/Qx1li7J+7oviCP89PyB+fkL68a3hqNgijZ8ax2vQ8LuMt7SoXzYMtxLSDPat51D8lMn/Wg==",
   "success": true,
-  "projectFilePath": "C:\\DEVOPS PROYECTO\\Proyecto-Programacion-Web\\Logica\\Logica.csproj",
+  "projectFilePath": "C:\\CONSULTORIO PSICOLOGICO\\Consultorio-Pscologico\\Logica\\Logica.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oscar\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\oscar\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

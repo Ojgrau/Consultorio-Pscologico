@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uK1z0QklkCS6mhOjiILt1Zx2vUaPAEgwcfF7Ao+1Uitm4/r0rB6wiaOFJfL+5BX6uWrf1PvvX/k8lnJ4vsFDzg==",
+  "dgSpecHash": "og/M8R6EIRXP/Gj24lEJ5aa0aOatNS1pdy/fPisNgBmUO7O0/9M4eAR7LjE13m7vVaQUl9Sm6zHCy1FDBgRMsw==",
   "success": true,
-  "projectFilePath": "C:\\DEVOPS PROYECTO\\Proyecto-Programacion-Web\\Entidad\\Entidad.csproj",
+  "projectFilePath": "C:\\CONSULTORIO PSICOLOGICO\\Consultorio-Pscologico\\Entidad\\Entidad.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oscar\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],
